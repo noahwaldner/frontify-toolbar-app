@@ -1,0 +1,5 @@
+[user]
+	email = dev@noahwaldner.ch
+	name = Noah Waldner
+[commit]
+	gpgsign = false
